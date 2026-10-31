@@ -10,17 +10,18 @@ I like building things people actually use, especially when the user isn't someo
 
 A voice assistant that helps older adults live independently: it reminds them about medication, checks in on how they're doing, and lets them just talk instead of navigating an app. Family members and doctors get a dashboard to stay in the loop.
 
-My undergraduate thesis. Presented at BCI 2026 and to appear in the Springer conference proceedings.
+My undergraduate thesis. Presented at BCI 2026 and to appear in the Springer CSIS conference proceedings.
 
 **Built with:** Python · FastAPI · Streamlit · SQLAlchemy · Gemini Live API · scikit-learn
 
 ## Tech
 
-- **Languages:** Python, C/C++, SQL
-- **Backend & tools:** FastAPI, Git, Docker, Linux
-- **ML / AI:** scikit-learn, LLM APIs, RAG
-- **Currently into:** AI engineering, RAG and agent systems, cloud
+- **AI & ML:** Generative AI, LLMs, RAG, Agentic AI, Machine Learning, Voice-first conversational AI
+- **Languages:** Python, JavaScript, SQL, Java, C, HTML/CSS
+- **Frameworks:** React, FastAPI, REST APIs, Streamlit, scikit-learn, pandas, NumPy
+- **Platforms & Tools:** Dataiku DSS, Jira, Git, Docker, Linux
+- **AI-Assisted Dev:** Specification-Driven Development using Coding Agents
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/kalliopi-maria-tintikaki-9182531a2/) · [Klelia.tin@gmail.com](mailto:Klelia.tin@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kalliopi-maria-tintikaki-9182531a2/) · [klelia.tin@gmail.com](mailto:klelia.tin@gmail.com)
