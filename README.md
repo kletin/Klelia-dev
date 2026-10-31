@@ -1,4 +1,4 @@
-# Hi, I'm Klelia 👋
+# Klelia Tintikaki
 
 Software & AI developer with a degree in Applied Informatics from the University of Macedonia. Currently an AI Engineer Intern at Pfizer's Center for Digital Innovation in Thessaloniki.
 
