@@ -1,4 +1,4 @@
-# Hi, I'm Kalliopi 👋
+# Hi, I'm Klelia 👋
 
 Software & AI developer with a degree in Applied Informatics from the
 University of Macedonia. Currently an AI Engineer Intern at Pfizer's
