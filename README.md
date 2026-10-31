@@ -29,4 +29,4 @@ Springer conference proceedings.
 
 ## Connect
 
-[LinkedIn](link) · Klelia.tin@gmail.com
+[[LinkedIn](link)](https://www.linkedin.com/in/kalliopi-maria-tintikaki-9182531a2/) · Klelia.tin@gmail.com
