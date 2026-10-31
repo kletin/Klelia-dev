@@ -29,4 +29,4 @@ Springer conference proceedings.
 
 ## Connect
 
-[LinkedIn](link) · your@email.com
+[LinkedIn](link) · Klelia.tin@gmail.com
